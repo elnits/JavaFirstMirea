@@ -59,7 +59,7 @@
 Важно! Внутри каждого пакета должен быть создан свой исполняемый класс по стандарту, чтобы можно было организовать точку входа в программу.
 
 ```java
-package ru.mirea.test;
+package ru.mirea.ru.mirea.task23.test;
 
 public class Main {
     public static void main(String[] args) {
@@ -77,7 +77,7 @@ public class Main {
 
 ## Расположение заданий
 
-Актуальные задания вложены в папки ru.mirea.ru.mirea.task2.task2.task1-task24, следующие задания обновятся позднее.
+Актуальные задания вложены в папки ru.mirea.ru.mirea.ru.mirea.task23.task2.ru.mirea.task23.task2.task1-task24, следующие задания обновятся позднее.
 
 ## Порядок сдачи работ
 1. Загрузка готового проекта на свой репозиторий GitHub.

@@ -10,10 +10,10 @@ public class Main5 {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList = new ArrayList<>();
         LinkedList<Integer> linkedList = new LinkedList<>();
-        System.out.println("ArrayList test");
+        System.out.println("ArrayList ru.mirea.task23.test");
         testList(arrayList);
         System.out.println();
-        System.out.println("LinkedList test");
+        System.out.println("LinkedList ru.mirea.task23.test");
         testList(linkedList);
 
     }
